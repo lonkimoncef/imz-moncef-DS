@@ -1,15 +1,11 @@
-Now see folder which contains files </br>
+If you want to run the solutions:
 
-In first folders ("moncef") contained our program. </br>
 
-If you want run the program you need: </br>
-1. Download ZIP </br>
+1.Run Eclipse
 
-2. extract zip file </br>
 
-3. Go to the directory where the file is(D:\git_lab\moncef\src\main\java\moncef\Hello.java), and execute commands. </br>
-«`»javac HelloWorld.java«`» </br>
+2.Choose File -> Import -> Existing Maven Project ->
 
-4. In this folder appears HelloWorld.class file. So the program is compiled. In order to start it</br>
-«`»java -classpath . HelloWorld«`» </br>
 
+3.In the Package Explorer choose:
+/moncef_imz/src/main/java/moncef_Seminar_2/console.java
